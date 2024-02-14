@@ -1,5 +1,5 @@
 # Unsupervised Autoencoder by Nathan Dze Kadisoh 
-## data preperation for USW datset feaure analysis from Alexej and data preparation for credit card by Nathan 
+## data preperation for UNSW datset feaure analysis from Alexej and data preparation for credit card by Nathan 
 ## Sparse autoencoder 
 
 ## convolutional autoencoder
