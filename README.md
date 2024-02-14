@@ -7,5 +7,6 @@ It's not fully automated, therefore some simple manual work will be needed. Ever
 - **old_main.ipynb** written by Alexej Kravtschenko (outdated)
     - **Dataset:** The UNSW_NB15_training-set and testing_set.csv datasets were used.
 - **unsupervised_Autoencoder.ipynb** written by Nathan Dze Kadisoh
-    - **Dataset:** UNSW_NB15_training-set, UNSW_NB15_testing_set.csv and creditcard.csv  
- 
+    - **Dataset:** UNSW_NB15_training-set, UNSW_NB15_testing_set.csv and creditcard.csv
+# Datasets
+Both of our datasets can be found within the folder "data" under the name "data/UNSW_NB15.zip" and "data/creditcard.zip. It might be needed to extract them manually.

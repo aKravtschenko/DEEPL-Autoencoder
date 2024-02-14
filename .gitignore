@@ -6,7 +6,7 @@ __pycache__/
 *.so
 
 # Ressources
-data/
+data/creditcard.csv
 util/
 
 # Distribution / packaging
