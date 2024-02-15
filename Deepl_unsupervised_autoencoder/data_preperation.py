@@ -2,14 +2,9 @@ import pandas as pd
 import seaborn as sns
 from sklearn.preprocessing import MinMaxScaler, StandardScaler, LabelEncoder
 import matplotlib.pyplot as plt
-from zipfile import ZipFile 
 
 def data_preperation(feature_analysis=False):
     
-    # Extract the dataset form /data
-    with ZipFile("data/UNSW_NB15.zip" , 'r') as zObject: 
-        zObject.extractall(path="data/") 
-    zObject.close() 
     # Download the dataset
     dataframe_1 = pd.read_csv('./data/UNSW_NB15_training-set.csv')
     dataframe_2 = pd.read_csv('./data/UNSW_NB15_testing-set.csv')
